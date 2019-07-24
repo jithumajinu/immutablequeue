@@ -3,8 +3,8 @@ immutable queue in java
 
 #Immutable class in Java
 
-Following are the requirements:
-• Class must be declared as final (So that child classes can’t be created)
+Following are the requirements:<br>
+• Class must be declared as final (So that child classes can’t be created) <br>
 • Data members in the class must be declared as final (So that we can’t change the value of it after object creation)
 • A parameterized constructor
 • Getter method for all the variables in it
